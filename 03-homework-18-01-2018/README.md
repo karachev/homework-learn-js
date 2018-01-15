@@ -12,5 +12,5 @@
 4. Псевдомассив аргументов "arguments"
 
 
-##[Замыкания, области видимости](https://learn.javascript.ru/functions-closures)
+## [Замыкания, области видимости](https://learn.javascript.ru/functions-closures)
 1. Глобальный объект
