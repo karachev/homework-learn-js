@@ -14,3 +14,13 @@
 
 ## [Замыкания, области видимости](https://learn.javascript.ru/functions-closures)
 1. Глобальный объект
+
+
+## [Методы объектов и контекст вызова](https://learn.javascript.ru/objects-more)
+1. Методы объектов, this
+
+## Обязательные задачи
+1. [Добавить класс в строку](<https://learn.javascript.ru/array-methods#добавить-класс-в-строку>)
+1. [Функция removeclass](<https://learn.javascript.ru/array-methods#функция-removeclass>)
+1. [Сортировка объектов](<https://learn.javascript.ru/array-methods#сортировка-объектов>)
+1. [Перепишите цикл через map](<https://learn.javascript.ru/array-iteration#перепишите-цикл-через-map>)
