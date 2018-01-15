@@ -1,21 +1,3 @@
-## 4
-из Документ и объекты страницы
-
-Окружение: DOM, BOM и JS
-Дерево DOM
-Работа с DOM из консоли
-Навигация по DOM-элементам
-Поиск: getElement* и querySelector* и не только
-Добавление и удаление узлов
-
-задачи
-<https://plnkr.co/edit/ZHh2lwzPzHfBCZjW05cK?p=preview> - список друзей из массива (условие)
-<https://plnkr.co/edit/c5NJZLmH0rTyMY5nWwAe?p=preview> - список свойств в объекте (условие)
-
-Дополнительное чтение:
-<https://learn.javascript.ru/destructuring>
-<https://learn.javascript.ru/prototype>
-
 ## 5
 Документ и объекты страницы
 

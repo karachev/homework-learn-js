@@ -1,4 +1,4 @@
-# Домашнее задание от 11.01.2018
+# Домашнее задание №1 от 11.01.2018
 
 ## [Основы  JavaScript](https://learn.javascript.ru/first-steps) | [JavaScript Fundamentals](http://javascript.info/first-steps)
 1. Привет, Мир!
