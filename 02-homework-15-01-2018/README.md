@@ -9,5 +9,5 @@
 2. Объекты: перебор свойств
 3. Объекты: передача по ссылке
 
-##Дополнительная задача
+## Дополнительная задача
 [Реализовать RLE-сжатие: AAAB -> A3B, BCCDDDAXXXX -> BC2D3AX4](http://artsiom.mezin.eu/playground/#-KwMMgW3AGFKnVBpq4tK)
