@@ -1,13 +1,3 @@
-## 5
-Документ и объекты страницы
-
-кроме Современный DOM: полифиллы
-
-задачи на закрепление
-<https://next.plnkr.co/edit/agb9zoflDWruXKuc>
-<https://learn.javascript.ru/task/create-object-tree>
-<https://next.plnkr.co/edit/9OLNtgmui1dLNigO>
-
 ## 6
 <https://learn.javascript.ru/introduction-browser-events>
 <https://learn.javascript.ru/settimeout-setinterval>
