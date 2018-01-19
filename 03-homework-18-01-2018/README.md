@@ -24,3 +24,19 @@
 1. [Функция removeclass](<https://learn.javascript.ru/array-methods#функция-removeclass>)
 1. [Сортировка объектов](<https://learn.javascript.ru/array-methods#сортировка-объектов>)
 1. [Перепишите цикл через map](<https://learn.javascript.ru/array-iteration#перепишите-цикл-через-map>)
+
+# UPDATE:
+## [Структуры данных](https://learn.javascript.ru/data-structures) | [Data Types](http://javascript.info/data-types)
+1. Массивы с числовыми индексами
+2. Массивы: методы
+3. Массивы: перебирающие методы
+
+## [Современные возможности ES-2015](https://learn.javascript.ru/es-modern)
+1. Строки
+
+## Факультативно
+1. [Дата и Время](https://learn.javascript.ru/datetime)
+2. [Прототип объекта](https://learn.javascript.ru/prototype)
+
+## Дополнительная задача:
+1. deepEqual(a, b);
