@@ -37,6 +37,7 @@
 ## Факультативно
 1. [Дата и Время](https://learn.javascript.ru/datetime)
 2. [Прототип объекта](https://learn.javascript.ru/prototype)
+3. [Дескрипторы, геттеры и сеттеры свойств](https://learn.javascript.ru/descriptors-getters-setters)
 
 ## Дополнительная задача:
 1. deepEqual(a, b);
