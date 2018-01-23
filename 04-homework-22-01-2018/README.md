@@ -15,3 +15,14 @@
 ## Дополнительное чтение
 1. [Деструктуризация](https://learn.javascript.ru/destructuring)
 2. [Прототип объекта](https://learn.javascript.ru/prototype)
+
+# UPDATE:
+## [Документ и объекты страницы](https://learn.javascript.ru/document)
+1. Окружение: DOM, BOM и JS
+2. Дерево DOM
+3. Работа с DOM из консоли
+4. Навигация по DOM-элементам
+
+## Дополнительное чтение
+1. [Деструктуризация](https://learn.javascript.ru/destructuring)
+2. [Функции](https://learn.javascript.ru/es-function)
