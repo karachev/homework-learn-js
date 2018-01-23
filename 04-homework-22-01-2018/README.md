@@ -26,3 +26,4 @@
 ## Дополнительное чтение
 1. [Деструктуризация](https://learn.javascript.ru/destructuring)
 2. [Функции](https://learn.javascript.ru/es-function)
+3. [Итераторы](https://learn.javascript.ru/iterator)
