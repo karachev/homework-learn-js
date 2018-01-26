@@ -49,11 +49,11 @@
 1. [Размеры и прокрутка элементов](https://learn.javascript.ru/metrics)
 2. [Modifying the document](http://javascript.info/modifying-document#creating-an-element)
 
-## Задачи ***Добавить названия***
-1. [1](https://plnkr.co/edit/ZHh2lwzPzHfBCZjW05cK?p=preview)
-2. [2](https://plnkr.co/edit/c5NJZLmH0rTyMY5nWwAe?p=preview)
-3. [3](https://next.plnkr.co/edit/9OLNtgmui1dLNigO?preview)
-4. [4](https://learn.javascript.ru/task/calendar-table)
+## Задачи
+1. [Задача: список друзей](https://plnkr.co/edit/ZHh2lwzPzHfBCZjW05cK?p=preview)
+2. [Задача: таблица ключ-значение объекта](https://plnkr.co/edit/c5NJZLmH0rTyMY5nWwAe?p=preview)
+3. [Задача: написать функцию highlight для таблицы](https://next.plnkr.co/edit/9OLNtgmui1dLNigO?preview)
+4. [Задача: создать календарь в виде таблицы](https://learn.javascript.ru/task/calendar-table)
 
-## Факультативно ***Добавить названия***
-1. [1](https://learn.javascript.ru/task/create-object-tree)
+## Факультативно
+1. [Задача: Создайте дерево из объекта](https://learn.javascript.ru/task/create-object-tree)
