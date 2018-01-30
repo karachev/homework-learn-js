@@ -12,7 +12,7 @@
 ## Замыкания, область видимости *Дополнительно?*
 1. Глобальный объект
 2. Замыкания, функции изнутри
-3. [[Scope]] для new Function
+3. Scope для new Function
 4. Локальные переменные для объекта
 5. Модули через замыкания
 
@@ -31,3 +31,24 @@
 ## Факультативно
 1. [Армия функций](https://learn.javascript.ru/task/make-army)
 2. [Сумма произвольного количества скобок](https://learn.javascript.ru/task/sum-many-brackets)
+
+# UPDATE:
+## [Основы работы с событиями](https://learn.javascript.ru/events-and-interfaces)
+1. [Введение в браузерные события](https://learn.javascript.ru/introduction-browser-events)
+
+## Видео
+1. [События](https://learn.javascript.ru/courses/download/js-20180111-2000/events.zip)
+
+## Задачи
+1. [Выпадающее меню](https://learn.javascript.ru/task/sliding-menu)
+2. [Слайдер](https://learn.javascript.ru/task/carousel)
+
+## Продвинутые задачи
+1. [Передвигать мяч по полю](https://learn.javascript.ru/task/move-ball-field)
+2. Написать базовый калькулятор
+3. Написать игру Сапёр
+
+## Новые возможности
+1. [Деструктуризация](https://learn.javascript.ru/destructuring)
+2. [Строки](https://learn.javascript.ru/es-string)
+3. [Итераторы](https://learn.javascript.ru/iterator)
